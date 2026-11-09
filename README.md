@@ -1,2 +1,3 @@
 # Miriam
-Proyecto de demostración par ala página web de  mi proyecto.
+Proyecto de demostración para la página web de  mi proyecto.
+Espero que todo salga bien :D
